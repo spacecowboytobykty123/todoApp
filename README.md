@@ -48,7 +48,7 @@
     cd .. 
    ```
 ###Вывод всех задач
-![Вывод всех задач]<img width="787" height="685" alt="image" src="https://github.com/user-attachments/assets/2f050f4a-6b43-4502-925b-ba6d25a64cff" />
+![Вывод всех задач](https://github.com/user-attachments/assets/2f050f4a-6b43-4502-925b-ba6d25a64cff)
 
 Поля для создания задачи(имя описание дата дэдлайна и статус)
 <img width="822" height="345" alt="image" src="https://github.com/user-attachments/assets/75ef91cd-1726-47fb-92d3-5730d060adf9" />
@@ -68,6 +68,7 @@
 
 Показывает только задачи до 26 числа
 <img width="874" height="448" alt="image" src="https://github.com/user-attachments/assets/d63d1eba-1665-4d93-8903-1ddf3caa3a5e" />
+
 
 
 
