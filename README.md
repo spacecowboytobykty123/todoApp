@@ -47,7 +47,6 @@
     npm install
     cd .. 
    ```
-
 Вывод всех задач
 <img width="782" height="598" alt="image" src="https://github.com/user-attachments/assets/aa89b600-bc76-4c8c-a940-6297cad504b8" />
 
@@ -58,7 +57,7 @@
 <img width="681" height="299" alt="image" src="https://github.com/user-attachments/assets/47f080b6-0ba9-4da5-9500-51c1bf90889a" />
 
 
-
+Изменение задачи(можем менять статус имя и описание)
 <img width="404" height="345" alt="image" src="https://github.com/user-attachments/assets/05b5bf86-776c-4697-9928-fba284c18870" />
 
 <img width="774" height="602" alt="image" src="https://github.com/user-attachments/assets/2bf375f1-e542-414a-b48a-3085a4e1ff34" />
@@ -75,6 +74,7 @@
 <img width="833" height="437" alt="image" src="https://github.com/user-attachments/assets/4a0d8f18-efd4-445e-8d7a-c56527e7d558" />
 
 <img width="883" height="350" alt="image" src="https://github.com/user-attachments/assets/5460fa03-2a3a-4055-9db6-414b581372a5" />
+
 
 
 
