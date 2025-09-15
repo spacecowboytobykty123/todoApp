@@ -48,14 +48,13 @@
     cd .. 
    ```
 
-
-<img width="826" height="658" alt="image" src="https://github.com/user-attachments/assets/d9d84e2c-10fc-4fec-9268-3727f5811324" />
+Вывод всех задач
 <img width="782" height="598" alt="image" src="https://github.com/user-attachments/assets/aa89b600-bc76-4c8c-a940-6297cad504b8" />
 
-
+Добавление задачи
 <img width="868" height="615" alt="image" src="https://github.com/user-attachments/assets/00c087e4-3591-4d08-88bf-a5d6c6f6321c" />
-
 <img width="822" height="121" alt="image" src="https://github.com/user-attachments/assets/af55213b-393e-41dd-b557-deec1b3947a5" />
+
 <img width="681" height="299" alt="image" src="https://github.com/user-attachments/assets/47f080b6-0ba9-4da5-9500-51c1bf90889a" />
 
 
@@ -76,5 +75,6 @@
 <img width="833" height="437" alt="image" src="https://github.com/user-attachments/assets/4a0d8f18-efd4-445e-8d7a-c56527e7d558" />
 
 <img width="883" height="350" alt="image" src="https://github.com/user-attachments/assets/5460fa03-2a3a-4055-9db6-414b581372a5" />
+
 
 
