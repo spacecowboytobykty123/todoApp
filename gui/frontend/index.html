@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>ToDo App</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<h1>📋 ToDo App</h1>
+
+<!-- форма добавления -->
+<div>
+    <label>Фильтр по статусу:</label>
+    <select id="filterStatus">
+        <option value="">Все</option>
+        <option value="Назначена">Назначена</option>
+        <option value="В работе">В работе</option>
+        <option value="Выполненный">Выполненный</option>
+        <option value="Отклонена">Отклонена</option>
+    </select>
+
+    <label>Дедлайн до:</label>
+    <input type="date" id="filterDeadline" />
+
+    <button id="applyFilters">Применить фильтры</button>
+</div>
+
+<hr />
+
+<!-- форма добавления -->
+<div>
+    <input id="taskName" placeholder="Название задачи" />
+    <input id="taskDesc" placeholder="Описание" />
+    <select id="taskStatus">
+        <option value="Назначена">Назначена</option>
+        <option value="В работе">В работе</option>
+        <option value="Выполненный">Выполненный</option>
+        <option value="Отклонена">Отклонена</option>
+    </select>
+    <button id="addTask">Добавить</button>
+</div>
+
+<hr />
+
+<ul id="taskList"></ul>
+
+<!-- js -->
+<script type="module" src="app.js"></script>
+</body>
+</html>

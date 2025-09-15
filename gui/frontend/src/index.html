@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>ToDo App</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        input, select { margin-right: 10px; }
+        button { margin-left: 5px; }
+        li { margin: 5px 0; }
+    </style>
+</head>
+<body>
+<h1>📋 ToDo App</h1>
+
+<!-- форма добавления -->
+<div>
+    <input id="taskName" placeholder="Название задачи" />
+    <input id="taskDesc" placeholder="Описание" />
+    <select id="taskStatus">
+        <option value="Назначена">Назначена</option>
+        <option value="В работе">В работе</option>
+        <option value="Выполненный">Выполненный</option>
+        <option value="Отклонена">Отклонена</option>
+    </select>
+    <button>Добавить</button>
+</div>
+
+<hr />
+
+<!-- список -->
+<ul id="taskList"></ul>
+
+<!-- только наш новый js -->
+<script type="module" src="app.js"></script>
+</body>
+</html>
