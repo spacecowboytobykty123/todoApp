@@ -47,27 +47,57 @@
     npm install
     cd .. 
    ```
-###Вывод всех задач
-![Вывод всех задач](https://github.com/user-attachments/assets/2f050f4a-6b43-4502-925b-ba6d25a64cff)
+## 📸 Скриншоты приложения
 
-Поля для создания задачи(имя описание дата дэдлайна и статус)
-<img width="822" height="345" alt="image" src="https://github.com/user-attachments/assets/75ef91cd-1726-47fb-92d3-5730d060adf9" />
-Задача добавилась
-<img width="800" height="475" alt="image" src="https://github.com/user-attachments/assets/e1d13eea-79bf-4f52-b16b-7fc1f6a8a0c6" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f050f4a-6b43-4502-925b-ba6d25a64cff" width="787"/>
+  <br>
+  <i>Вывод всех задач</i>
+</p>
 
-Поле для изменения задачи
-<img width="414" height="368" alt="image" src="https://github.com/user-attachments/assets/aa164dd2-d259-49c1-b0a9-324de22e69e0" />
-Задача изменилась
-<img width="651" height="456" alt="image" src="https://github.com/user-attachments/assets/2b5e94d6-29ed-4578-8969-8dc32a0aad9f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75ef91cd-1726-47fb-92d3-5730d060adf9" width="822"/>
+  <br>
+  <i>Поля для создания задачи (имя, описание, дата дедлайна и статус)</i>
+</p>
 
-После нажатия кнопки задача удаляется
-<img width="801" height="500" alt="image" src="https://github.com/user-attachments/assets/cd835737-571a-406d-a5e2-86bf60fe03fa" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1d13eea-79bf-4f52-b16b-7fc1f6a8a0c6" width="800"/>
+  <br>
+  <i>Задача добавилась</i>
+</p>
 
-Показывает только выполненные задачи
-<img width="811" height="395" alt="image" src="https://github.com/user-attachments/assets/ee8524cb-3c0f-4707-87c7-7c3dbcfd8562" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa164dd2-d259-49c1-b0a9-324de22e69e0" width="414"/>
+  <br>
+  <i>Поле для изменения задачи</i>
+</p>
 
-Показывает только задачи до 26 числа
-<img width="874" height="448" alt="image" src="https://github.com/user-attachments/assets/d63d1eba-1665-4d93-8903-1ddf3caa3a5e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/651c456.png" width="651"/>
+  <br>
+  <i>Задача изменилась</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd835737-571a-406d-a5e2-86bf60fe03fa" width="801"/>
+  <br>
+  <i>После нажатия кнопки задача удаляется</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee8524cb-3c0f-4707-87c7-7c3dbcfd8562" width="811"/>
+  <br>
+  <i>Фильтр: только выполненные задачи</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d63d1eba-1665-4d93-8903-1ddf3caa3a5e" width="874"/>
+  <br>
+  <i>Фильтр: задачи с дедлайном до 26 числа</i>
+</p>
+
+
 
 
 
