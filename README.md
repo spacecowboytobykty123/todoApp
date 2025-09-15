@@ -48,32 +48,33 @@
     cd .. 
    ```
 Вывод всех задач
-<img width="782" height="598" alt="image" src="https://github.com/user-attachments/assets/aa89b600-bc76-4c8c-a940-6297cad504b8" />
+<img width="787" height="685" alt="image" src="https://github.com/user-attachments/assets/2f050f4a-6b43-4502-925b-ba6d25a64cff" />
 
-Добавление задачи
-<img width="868" height="615" alt="image" src="https://github.com/user-attachments/assets/00c087e4-3591-4d08-88bf-a5d6c6f6321c" />
-<img width="822" height="121" alt="image" src="https://github.com/user-attachments/assets/af55213b-393e-41dd-b557-deec1b3947a5" />
+Поля для создания задачи(имя описание дата дэдлайна и статус)
+<img width="822" height="345" alt="image" src="https://github.com/user-attachments/assets/75ef91cd-1726-47fb-92d3-5730d060adf9" />
+Задача добавилась
+<img width="800" height="475" alt="image" src="https://github.com/user-attachments/assets/e1d13eea-79bf-4f52-b16b-7fc1f6a8a0c6" />
 
-<img width="681" height="299" alt="image" src="https://github.com/user-attachments/assets/47f080b6-0ba9-4da5-9500-51c1bf90889a" />
+Поле для изменения задачи
+<img width="414" height="368" alt="image" src="https://github.com/user-attachments/assets/aa164dd2-d259-49c1-b0a9-324de22e69e0" />
+Задача изменилась
+<img width="651" height="456" alt="image" src="https://github.com/user-attachments/assets/2b5e94d6-29ed-4578-8969-8dc32a0aad9f" />
+
+После нажатия кнопки задача удаляется
+<img width="801" height="500" alt="image" src="https://github.com/user-attachments/assets/cd835737-571a-406d-a5e2-86bf60fe03fa" />
+
+Показывает только выполненные задачи
+<img width="811" height="395" alt="image" src="https://github.com/user-attachments/assets/ee8524cb-3c0f-4707-87c7-7c3dbcfd8562" />
+
+Показывает только задачи до 26 числа
+<img width="874" height="448" alt="image" src="https://github.com/user-attachments/assets/d63d1eba-1665-4d93-8903-1ddf3caa3a5e" />
 
 
-Изменение задачи(можем менять статус имя и описание)
-<img width="404" height="345" alt="image" src="https://github.com/user-attachments/assets/05b5bf86-776c-4697-9928-fba284c18870" />
-
-<img width="774" height="602" alt="image" src="https://github.com/user-attachments/assets/2bf375f1-e542-414a-b48a-3085a4e1ff34" />
 
 
 
-<img width="764" height="611" alt="image" src="https://github.com/user-attachments/assets/ac9417db-dfcb-446d-8401-5c69b0b4c81b" />
 
 
-
-<img width="822" height="342" alt="image" src="https://github.com/user-attachments/assets/2b6108a5-e444-4c8e-b61e-bc5f446414f2" />
-
-
-<img width="833" height="437" alt="image" src="https://github.com/user-attachments/assets/4a0d8f18-efd4-445e-8d7a-c56527e7d558" />
-
-<img width="883" height="350" alt="image" src="https://github.com/user-attachments/assets/5460fa03-2a3a-4055-9db6-414b581372a5" />
 
 
 
